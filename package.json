@@ -1,0 +1,25 @@
+{
+  "name": "fuzzy-pancake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krafalski/fuzzy-pancake.git"
+  },
+  "author": "K. Rafalski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krafalski/fuzzy-pancake/issues"
+  },
+  "homepage": "https://github.com/Krafalski/fuzzy-pancake#readme",
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
