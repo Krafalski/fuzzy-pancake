@@ -1,411 +1,411 @@
 undefined
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W1D1
+W01D1
 Monday, February 12th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W1D2
+W01D2
 Tuesday, February 13th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W1D3
+W01D3
 Wednesday, February 14th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W1D4
+W01D4
 Thursday, February 15th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W1D5
+W01D5
 Friday, February 16th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W2D1
+W02D1
 Monday, February 19th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W2D2
+W02D2
 Tuesday, February 20th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W2D3
+W02D3
 Wednesday, February 21st 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W2D4
+W02D4
 Thursday, February 22nd 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W2D5
+W02D5
 Friday, February 23rd 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W3D1
+W03D1
 Monday, February 26th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W3D2
+W03D2
 Tuesday, February 27th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W3D3
+W03D3
 Wednesday, February 28th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W3D4
+W03D4
 Thursday, March 1st 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W3D5
+W03D5
 Friday, March 2nd 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W4D1
+W04D1
 Monday, March 5th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W4D2
+W04D2
 Tuesday, March 6th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W4D3
+W04D3
 Wednesday, March 7th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W4D4
+W04D4
 Thursday, March 8th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W4D5
+W04D5
 Friday, March 9th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W5D1
+W05D1
 Monday, March 12th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W5D2
+W05D2
 Tuesday, March 13th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W5D3
+W05D3
 Wednesday, March 14th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W5D4
+W05D4
 Thursday, March 15th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W5D5
+W05D5
 Friday, March 16th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W6D1
+W06D1
 Monday, March 19th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W6D2
+W06D2
 Tuesday, March 20th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W6D3
+W06D3
 Wednesday, March 21st 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W6D4
+W06D4
 Thursday, March 22nd 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W6D5
+W06D5
 Friday, March 23rd 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W7D1
+W07D1
 Monday, March 26th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W7D2
+W07D2
 Tuesday, March 27th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W7D3
+W07D3
 Wednesday, March 28th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W7D4
+W07D4
 Thursday, March 29th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W7D5
+W07D5
 Friday, March 30th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W8D1
+W08D1
 Monday, April 2nd 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W8D2
+W08D2
 Tuesday, April 3rd 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W8D3
+W08D3
 Wednesday, April 4th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W8D4
+W08D4
 Thursday, April 5th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W8D5
+W08D5
 Friday, April 6th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W9D1
+W09D1
 Monday, April 9th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W9D2
+W09D2
 Tuesday, April 10th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W9D3
+W09D3
 Wednesday, April 11th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W9D4
+W09D4
 Thursday, April 12th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
-W9D5
+W09D5
 Friday, April 13th 2018
 
 Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W10D1
 Monday, April 16th 2018
@@ -414,7 +414,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W10D2
 Tuesday, April 17th 2018
@@ -423,7 +423,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W10D3
 Wednesday, April 18th 2018
@@ -432,7 +432,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W10D4
 Thursday, April 19th 2018
@@ -441,7 +441,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W10D5
 Friday, April 20th 2018
@@ -450,7 +450,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W11D1
 Monday, April 23rd 2018
@@ -459,7 +459,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W11D2
 Tuesday, April 24th 2018
@@ -468,7 +468,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W11D3
 Wednesday, April 25th 2018
@@ -477,7 +477,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W11D4
 Thursday, April 26th 2018
@@ -486,7 +486,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W11D5
 Friday, April 27th 2018
@@ -495,7 +495,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W12D1
 Monday, April 30th 2018
@@ -504,7 +504,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W12D2
 Tuesday, May 1st 2018
@@ -513,7 +513,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W12D3
 Wednesday, May 2nd 2018
@@ -522,7 +522,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W12D4
 Thursday, May 3rd 2018
@@ -531,7 +531,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W12D5
 Friday, May 4th 2018
@@ -540,7 +540,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W13D1
 Monday, May 7th 2018
@@ -549,7 +549,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W13D2
 Tuesday, May 8th 2018
@@ -558,7 +558,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W13D3
 Wednesday, May 9th 2018
@@ -567,7 +567,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W13D4
 Thursday, May 10th 2018
@@ -576,7 +576,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W13D5
 Friday, May 11th 2018
@@ -585,7 +585,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W14D1
 Monday, May 14th 2018
@@ -594,7 +594,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W14D2
 Tuesday, May 15th 2018
@@ -603,7 +603,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W14D3
 Wednesday, May 16th 2018
@@ -612,7 +612,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W14D4
 Thursday, May 17th 2018
@@ -621,7 +621,7 @@ Zoom: https://generalassembly.zoom.us/j/594235178
 ==========================================
 
 ==========================================
-Good Afternoon'!
+Good Afternoon
 
 W14D5
 Friday, May 18th 2018

@@ -1,7 +1,6 @@
 {
   "name": "fuzzy-pancake",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "directories": {
     "test": "test"
@@ -21,5 +20,6 @@
   "homepage": "https://github.com/Krafalski/fuzzy-pancake#readme",
   "dependencies": {
     "moment": "^2.20.1"
-  }
+  },
+  "description": ""
 }
