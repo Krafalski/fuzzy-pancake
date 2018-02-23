@@ -21,3 +21,8 @@ It also has a table generator that links to specific folders. Instructors just n
 To align the table generator with the links please use Kristyn's  bash folder generator
 
 [WDIR Folder generator](https://github.com/kristynrb/WDI-Folder-Script)
+
+
+Example of the table:
+
+![table example](https://i.imgur.com/RNqP97N.png)
