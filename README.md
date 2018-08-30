@@ -1,28 +1,51 @@
 # fuzzy-pancake
-day week headers generator for WDIR
 
-This generates daily headers for slack.
+Day-week headers and syllabus tables generators for WDIR
 
-- Clone this repo
-- `cd` into this repo
-- `npm init` to initialize npm
-- `npm i` to install `moment.js` and `fs` - the only packages required, one to manipulate dates and the other to save the output into a file
+Generate syllabus tables and headers for WDIR
 
+Each generator uses the WDIR file structure for the repo so that relative links are automatically generated. Adding link material only requires the name inside the square brackets
 
-- There are two files `app.js` to make headers (I should rename it) and `table.js` to make the table of the schedule 
-- Under the comment `Customizables` enter the start date of the cohort as a string in the `startDate` variable
-  - Note: it will generate days for holidays and winter break 
-- also, update the filename you'd like the file to be saved under. Currently it is `outrun-table.md` because the current cohort's name is `outrun`
+![markdown](https://i.imgur.com/PkYUuwX.png)
 
-
-
-It also has a table generator that links to specific folders. Instructors just need to put the topic inside of the `[]` for the link to link to the right folder for students to have as a reference. This has been one of the most requested things students have asked us.
-
-To align the table generator with the links please use Kristyn's  bash folder generator
+To align the table generator with the links please use Kristyn's bash folder generator for your repo or customize the script to match your structure
 
 [WDIR Folder generator](https://github.com/kristynrb/WDI-Folder-Script)
 
+## How to Install
 
-Example of the table:
+- Clone this repo
+- `cd` into this repo
+- `npm i` to install `moment.js`* - the package require to work with the dates ( Optional if date generation is not required)
+- Note: also uses `fs` - to create the file - but hat is already part of Node
+
+### Table Options
+
+- There are a few files to choose from
+    - table-generator.js Simple, no frills no date markdown table generator
+
+    ![simple table](https://i.imgur.com/F820Scf.png)
+
+    - table-generator-w-days.js Simple but keeps track of Monday - Friday where d1 always is a Monday and d5 is always a Friday
+
+    ![table with days](https://i.imgur.com/3rSRAHt.png)
+
+    - table-generator-w-dates.js fills in full dates
+
+    ![table with dates](https://i.imgur.com/WZsBp5A.png)
+
+    - Slack Headers - this is WDIR - specific for providing zoom links in slack
+
+### Generating Tables
+run `node table-generator.js` to create the default table    
+
+- Under the comment `Customizables` enter the start date of the cohort as a string in the `startDate` variable *OR* use arguments in node (see file for details)
+  - Note: it will generate days for holidays and winter break, these tend to be minor adjustments and I have been making them manually, as needed.
+- also, update the filename you'd like the file to be saved under. Currently it is `WDIR-September-2019-Syllabus.md`
+
+- For relative pathing could be swapped out for absolute pathing.
+
+
+Example of a filled out table:
 
 ![table example](https://i.imgur.com/RNqP97N.png)

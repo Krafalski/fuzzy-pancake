@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Krafalski/fuzzy-pancake#readme",
   "dependencies": {
-    "moment": "^2.20.1"
+    "moment": "^2.22.2"
   },
   "description": ""
 }
